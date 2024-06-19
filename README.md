@@ -29,4 +29,4 @@ self.RPOFESSIONAL_EXPRESSION_TEMPLATE = '请把该段医学描述转化为专业
 作为一个经历过临床训练的医学生，我自己感官上能让输出好很多
 有空上 medbench 测一下，作为一个 todo
 
-chatclient 和 hybridserver 都是之前[茴香豆](https://github.com/InternLM/HuixiangDou/tree/main)那边搞来的代码 主要是贪恋里面写好的各路厂商的 response 解析，作者🐂🍺！
+chatclient 和 hybridserver 都是之前[茴香豆](https://github.com/InternLM/HuixiangDou/tree/main)那边搞来的代码改的 主要是贪恋里面写好的各路厂商的 response 解析，作者🐂🍺！
